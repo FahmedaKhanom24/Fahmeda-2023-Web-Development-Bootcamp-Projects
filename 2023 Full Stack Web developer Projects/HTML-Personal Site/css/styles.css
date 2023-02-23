@@ -1,0 +1,56 @@
+/*
+
+        TAG SELECTORS
+h1{
+    color: red; 
+    font-size: 200px;
+}
+
+        CLASS SELECTORS
+.pizza{
+    background-color: red;
+}
+
+.broccoli{
+    background-color: yellow;
+}
+
+        ID SELECTORS
+
+#heading{
+    background-color: blue;
+}
+*/
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+
+}
+
+h1 {
+    color: #66BFBF;
+
+}
+h3 {
+    color: #66BFBF;
+}
+
+
+
+
+img:hover{
+    background-color: gold;
+
+}
+
+.circular{
+    border-radius: 100%;
+}
